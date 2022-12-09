@@ -3,7 +3,7 @@ Resume parsing with Named Entity Clustering:
 
 # About
 
-This repository applies BERT for named entity recognition on resumes. The goal is to find useful information present in resume.
+This repository applies BERT for named entity recognition on resumes dataset. Intially KNN, SVM and Navies algorithms are used for classification and prediction from the ResumeData set. However in Real words application we see the Resume that Job seekers use while apllying to certain job differs from format to format. So we will have labelled data but in different format. Hence, I moved to BERT Tansformer where we first implement Named Entity Recognition and then predict the accuracy. The goal is to find useful information present in resume.
 <h2>Introduction :-</h2><br>
 <b>
   <ul>
@@ -14,6 +14,7 @@ This repository applies BERT for named entity recognition on resumes. The goal i
   <h2>Modules & Libraries Description</h2>
   <ul>
     <h4>Modules :-</h4>
+    Algong with the libraries that are described below, BERT, TORCH are used in execution of this project.
     <ul>
     <li>KNN</li>
       <dl>
@@ -53,10 +54,9 @@ This repository applies BERT for named entity recognition on resumes. The goal i
       <dl>
       <dd>- Natural Language toolkit or NLTK is said to be one among the popular Python NLP Libraries. It contains a set of processing libraries that provide processing                     solutions for numerical and symbolic language processing in English only.</dd>
       </dl>
-      <dl>
-      <dd>- Torch and BERT are used.</dd>
-      </dl>
     </ul>
   </ul>
 <h4>References:-</h4> 
-https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb
+  <dl>
+<dd>https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb
+  </dl>  
