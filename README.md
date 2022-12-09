@@ -43,16 +43,15 @@ This repository applies BERT for named entity recognition on resumes dataset. In
       </dl>
     <li>Seaborn</li>
       <dl>
-      <dd>- When it comes to visualisation of statistical models like heat maps, Seaborn is among the reliable sources. This Python library is derived from Matplotlib and                   closely integrated with Pandas data structures.</dd>
+      <dd>- When it comes to visualisation of statistical models like heat maps, Seaborn is among the reliable sources. This Python library is derived from Matplotlib and closely integrated with Pandas data structures.</dd>
       </dl>
-    
     <li>Scikit-learn</li>
       <dl>
-      <dd>- It is a free software machine learning library for the Python programming language and can be effectively used for a variety of applications which include                       classification, regression, clustering, model selection, naive Bayes’, grade boosting, K-means, and preprocessing.</dd>
+      <dd>- It is a free software machine learning library for the Python programming language and can be effectively used for a variety of applications which include classification, regression, clustering, model selection, naive Bayes’, grade boosting, K-means, and preprocessing.</dd>
       </dl>
       <li>Nltk</li>
       <dl>
-      <dd>- Natural Language toolkit or NLTK is said to be one among the popular Python NLP Libraries. It contains a set of processing libraries that provide processing                     solutions for numerical and symbolic language processing in English only.</dd>
+      <dd>- Natural Language toolkit or NLTK is said to be one among the popular Python NLP Libraries. It contains a set of processing libraries that provide processing solutions for numerical and symbolic language processing in English only.</dd>
       </dl>
     </ul>
   </ul>
